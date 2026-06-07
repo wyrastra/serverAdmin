@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "diddyclub-K1cj.aternos.me:20020",
+    "port": 20020,
     "version": "",
     "try-creative": false
   },
