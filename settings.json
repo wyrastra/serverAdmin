@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "diddyclub-K1cj.aternos.me:20020",
+    "ip": "diddyclub-K1cj.aternos.me",
     "port": 20020,
     "version": "",
     "try-creative": false
