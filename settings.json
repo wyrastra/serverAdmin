@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "partu.aternos.me:48737",
+    "ip": "partu.aternos.me",
     "port": 48737,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
