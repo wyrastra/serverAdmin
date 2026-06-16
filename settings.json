@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "diddyclub-K1cj.aternos.me:20020",
-    "port": 20020,
+    "ip": "partu.aternos.me",
+    "port": 48737,
     "version": "",
     "try-creative": false
   },
